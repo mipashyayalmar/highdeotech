@@ -4202,7 +4202,19 @@ Page Banner Style
   background-image: url(../images/page-banner/page-bnner-1.jpg);
 }
 .page-banner-area.bg-2 {
-  background-image: url(../images/page-banner/page-bnner-2.jpg);
+  background-image: url(../images/page-banner/2.png);
+}
+.page-banner-area.bg-3 {
+  background-image: url(../images/page-banner/1.png);
+}
+.page-banner-area.bg-4 {
+  background-image: url(../images/page-banner/Royal-Shetkari.png);
+}
+.page-banner-area.bg-5 {
+  background-image: url(../images/page-banner/College_ERP.jpg);
+}
+.page-banner-area.bg-6 {
+  background-image: url(../images/page-banner/Aadhar.png);
 }
 .page-banner-area .container-fluid {
   max-width: 1520px;
